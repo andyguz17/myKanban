@@ -1,0 +1,30 @@
+.header {
+  justify-content: center;
+  text-align: center;
+}
+
+.task_container {
+  width: 350px;
+  padding: 30px 20px 30px 20px;
+  border: 1.5px solid lightgrey;
+  border-radius: 15px;
+}
+
+.board-container {
+  padding: 30px 30px 30px 30px;
+  border: 1.5px solid lightgrey;
+  border-radius: 15px;
+}
+
+.card_container {
+  width: 270px;
+  padding: 30px 10px 30px 10px;
+  border: 1.5px solid lightgrey;
+  border-radius: 15px;
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1300px;
+  }
+}

@@ -1,0 +1,189 @@
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Board.exe
+E:\Work\Programming\Personal Projects\C#\Board\Board\obj\Debug\netcoreapp3.1\Board.csprojAssemblyReference.cache
+E:\Work\Programming\Personal Projects\C#\Board\Board\obj\Debug\netcoreapp3.1\Board.AssemblyInfoInputs.cache
+E:\Work\Programming\Personal Projects\C#\Board\Board\obj\Debug\netcoreapp3.1\Board.AssemblyInfo.cs
+E:\Work\Programming\Personal Projects\C#\Board\Board\obj\Debug\netcoreapp3.1\Board.RazorTargetAssemblyInfo.cache
+E:\Work\Programming\Personal Projects\C#\Board\Board\obj\Debug\netcoreapp3.1\staticwebassets\Board.StaticWebAssets.Manifest.cache
+E:\Work\Programming\Personal Projects\C#\Board\Board\obj\Debug\netcoreapp3.1\staticwebassets\Board.StaticWebAssets.xml
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\obj\Debug\netcoreapp3.1\Board.csproj.CopyComplete
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Board.deps.json
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Board.runtimeconfig.json
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Board.runtimeconfig.dev.json
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Board.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\bin\Debug\netcoreapp3.1\Board.pdb
+E:\Work\Programming\Personal Projects\C#\Board\Board\obj\Debug\netcoreapp3.1\Board.csproj.CoreCompileInputs.cache
+E:\Work\Programming\Personal Projects\C#\Board\Board\obj\Debug\netcoreapp3.1\Board.MvcApplicationPartsAssemblyInfo.cache
+E:\Work\Programming\Personal Projects\C#\Board\Board\obj\Debug\netcoreapp3.1\Board.dll
+E:\Work\Programming\Personal Projects\C#\Board\Board\obj\Debug\netcoreapp3.1\Board.pdb
+E:\Work\Programming\Personal Projects\C#\Board\Board\obj\Debug\netcoreapp3.1\Board.genruntimeconfig.cache
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Board.exe
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Board.deps.json
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Board.runtimeconfig.json
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Board.runtimeconfig.dev.json
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Board.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Board.pdb
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\obj\Debug\netcoreapp3.1\Board.csprojAssemblyReference.cache
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\obj\Debug\netcoreapp3.1\Board.AssemblyInfoInputs.cache
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\obj\Debug\netcoreapp3.1\Board.AssemblyInfo.cs
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\obj\Debug\netcoreapp3.1\Board.csproj.CoreCompileInputs.cache
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\obj\Debug\netcoreapp3.1\Board.MvcApplicationPartsAssemblyInfo.cache
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\obj\Debug\netcoreapp3.1\Board.RazorTargetAssemblyInfo.cache
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\obj\Debug\netcoreapp3.1\Board.csproj.CopyComplete
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\obj\Debug\netcoreapp3.1\staticwebassets\Board.StaticWebAssets.Manifest.cache
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\obj\Debug\netcoreapp3.1\staticwebassets\Board.StaticWebAssets.xml
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\obj\Debug\netcoreapp3.1\Board.dll
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\obj\Debug\netcoreapp3.1\Board.pdb
+E:\Work\Programming\Personal Projects\C#\Board\Api\Board\obj\Debug\netcoreapp3.1\Board.genruntimeconfig.cache
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Board.exe
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Board.deps.json
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Board.runtimeconfig.json
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Board.runtimeconfig.dev.json
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Board.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Board.pdb
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\obj\Debug\netcoreapp3.1\Board.csprojAssemblyReference.cache
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\obj\Debug\netcoreapp3.1\Board.AssemblyInfoInputs.cache
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\obj\Debug\netcoreapp3.1\Board.AssemblyInfo.cs
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\obj\Debug\netcoreapp3.1\Board.csproj.CoreCompileInputs.cache
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\obj\Debug\netcoreapp3.1\Board.MvcApplicationPartsAssemblyInfo.cache
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\obj\Debug\netcoreapp3.1\Board.RazorTargetAssemblyInfo.cache
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\obj\Debug\netcoreapp3.1\Board.csproj.CopyComplete
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\obj\Debug\netcoreapp3.1\staticwebassets\Board.StaticWebAssets.Manifest.cache
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\obj\Debug\netcoreapp3.1\staticwebassets\Board.StaticWebAssets.xml
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\obj\Debug\netcoreapp3.1\Board.dll
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\obj\Debug\netcoreapp3.1\Board.pdb
+E:\Andres\Work space\Development\Personal Projects\Web Apps\Kan Ban\Api\Board\obj\Debug\netcoreapp3.1\Board.genruntimeconfig.cache
